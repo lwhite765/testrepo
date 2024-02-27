@@ -1,2 +1,2 @@
 # testrepo
-## Hello everyone
+## Just a testing repo
