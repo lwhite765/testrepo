@@ -8,6 +8,6 @@ int main()
 	std::cin >> num1;
 	std::cout << "Enter the second number: ";
 	std::cin >> num2;
-	std::cout << "Their sum is not: " << num1-num2 << "!\n";
+	std::cout << "Their sum is not: " << num1+num2 << "!\n";
 	return 0;
 }
